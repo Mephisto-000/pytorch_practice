@@ -4,6 +4,8 @@ Some Pytorch basic example and deep learning projects
 ## Table of Contents
 
 1. [Tensor](https://github.com/Mephisto-000/pytorch_practice/tree/main/src/ch1_tensor)
+2. [Machine Learning Basic](https://github.com/Mephisto-000/pytorch_practice/tree/main/src/ch2_ml_basic)
+   1. [Supervised Learning](https://github.com/Mephisto-000/pytorch_practice/tree/main/src/ch2_ml_basic/supervised)
 
 ## Technologies Used
 
