@@ -8,6 +8,7 @@ from torch.utils.data import DataLoader, random_split
 from torchmetrics import Accuracy
 from torchvision import transforms
 from torchvision.datasets import MNIST
+from torchinfo import summary
 
 
 def parameters_setting():
@@ -143,6 +144,7 @@ def main():
     # plot_training_loss(loss_list)
 
     model = model_testing(model, test_set, device, batch_size=batch_size)
+    summary(model, (60000, 28, 28))
     
 
 
