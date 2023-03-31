@@ -1,4 +1,4 @@
-# pytorch_practice
+# PyTorch Practice Note
 Some Pytorch basic example and deep learning projects
 
 ## Table of Contents
@@ -7,12 +7,20 @@ Some Pytorch basic example and deep learning projects
 2. [Machine Learning Basic](https://github.com/Mephisto-000/pytorch_practice/tree/main/src/ch2_ml_basic)
    1. [Supervised Learning](https://github.com/Mephisto-000/pytorch_practice/tree/main/src/ch2_ml_basic/supervised)
 
-## Technologies Used
+## Library Used
 
-- torch (gpu) - version 1.12.0
-- cuda - version 11.7
-- numpy - version 1.22.3
-- matplotlib - version 3.2.2
+Python -version 3.8
+
+|   Library    | Version |
+| :----------: | :-----: |
+| torch（GPU） | 1.12.0  |
+|    numpy     | 1.22.3  |
+|    pandas    |  1.4.4  |
+|  matplotlib  |  3.2.2  |
+|    opencv    |  4.4.0  |
+|  jupyterlab  |  3.5.0  |
+
+
 
 ## Reference
 
