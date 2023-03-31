@@ -18,7 +18,7 @@ Python -version 3.8
 |    pandas    |  1.4.4  |
 |  matplotlib  |  3.2.2  |
 |   imageio    | 2.27.0  |
-|    opencv    |  4.4.0  |
+|    opencv    |  4.7.0  |
 |  jupyterlab  |  3.5.0  |
 
 
