@@ -3,9 +3,7 @@ Some Pytorch basic example and deep learning projects
 
 ## Table of Contents
 
-1. [Tensor](https://github.com/Mephisto-000/pytorch_practice/tree/main/src/ch1_tensor)
-2. [Machine Learning Basic](https://github.com/Mephisto-000/pytorch_practice/tree/main/src/ch2_ml_basic)
-   1. [Supervised Learning](https://github.com/Mephisto-000/pytorch_practice/tree/main/src/ch2_ml_basic/supervised)
+
 
 ## Library Used
 
@@ -13,13 +11,14 @@ Python -version 3.8
 
 |   Library    | Version |
 | :----------: | :-----: |
-| torch（GPU） | 1.12.0  |
-|    numpy     | 1.22.3  |
-|    pandas    |  1.4.4  |
-|  matplotlib  |  3.2.2  |
-|   imageio    | 2.27.0  |
-|    opencv    |  4.7.0  |
-|  jupyterlab  |  3.5.0  |
+|   pytorch    |  2.1.2  |
+| pytorch-cuda |  12.1   |
+|    numpy     | 1.26.2  |
+|    pandas    |  2.1.1  |
+|  matplotlib  |  3.8.0  |
+|    taipy     | 2.27.0  |
+|    opencv    | 4.9.0.8 |
+|    plotly    | 5.19.0  |
 
 
 
