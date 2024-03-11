@@ -13,6 +13,7 @@ Python -version 3.8
 | :----------: | :-----: |
 |   pytorch    |  2.1.2  |
 | pytorch-cuda |  12.1   |
+| scikit-learn |  1.3.0  |
 |    numpy     | 1.26.2  |
 |    pandas    |  2.1.1  |
 |  matplotlib  |  3.8.0  |
