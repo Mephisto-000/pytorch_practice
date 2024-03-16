@@ -1,0 +1,30 @@
+{
+  "model": {
+    "name": "NN",
+    "input": [],
+    "pretrained": false,
+    "num_classes": 10
+  },
+  "train": {
+    "batch_size": 32,
+    "num_epochs": 20,
+    "learning_rate": 0.001,
+    "momentum": 0.9,
+    "weight_decay": 0.0001,
+    "save_checkpoint_every": 5
+  },
+  "data": {
+    "train_set_path": "MNIST_ORG\\train-images.idx3-ubyte",
+    "train_label_path": "MNIST_ORG\\train-labels.idx1-ubyte",
+    "test_set_path": "MNIST_ORG\\t10k-images.idx3-ubyte",
+    "test_label_path": "MNIST_ORG\\t10k-labels.idx1-ubyte",
+    "train_split": 0.8,
+    "validation_split": 0.1,
+    "test_split": 0.1,
+    "image_size": 224
+  },
+  "device": "cuda",
+  "logging": {
+    "save_path": "/path/to/logs"
+  }
+}
