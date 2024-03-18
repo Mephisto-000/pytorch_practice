@@ -3,5 +3,5 @@
 *test.py
 tmp/
 project_example/MNIST_ORG/
-project_example/dataloader/__pycache__/
+__pycache__
 *.py[cod]
