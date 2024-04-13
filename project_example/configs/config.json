@@ -18,10 +18,10 @@
     "train_label_path": "MNIST_ORG\\train-labels.idx1-ubyte",
     "test_set_path": "MNIST_ORG\\t10k-images.idx3-ubyte",
     "test_label_path": "MNIST_ORG\\t10k-labels.idx1-ubyte",
+    "image_size": 28,
     "train_split": 0.8,
     "validation_split": 0.1,
-    "test_split": 0.1,
-    "image_size": 224
+    "test_split": 0.1
   },
   "device": "cuda",
   "logging": {
