@@ -1,6 +1,7 @@
 *.idea
 *.ipynb_checkpoints
 *test.py
+*.zip
 tmp/
 project_example/MNIST_ORG/
 __pycache__/
