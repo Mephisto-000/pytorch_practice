@@ -9,18 +9,18 @@ Some Pytorch basic example and deep learning projects
 
 Python -version 3.8
 
-|     Library     | Version  |
-| :-------------: | :------: |
-|     pytorch     |  2.1.2   |
-|  pytorch-cuda   |   12.1   |
-|  scikit-learn   |  1.3.0   |
-|      numpy      |  1.26.2  |
-|     pandas      |  2.1.1   |
-|   matplotlib    |  3.8.4   |
-|     seaborn     |  0.12.2  |
-|  opencv-python  | 4.9.0.80 |
-|   fuzzywuzzy    |  0.18.0  |
-| ydata-profiling |  4.7.0   |
+|    Library    | Version  |
+| :-----------: | :------: |
+|    pytorch    |  2.1.2   |
+| pytorch-cuda  |   12.1   |
+| scikit-learn  |  1.3.0   |
+|     scipy     |  1.13.0  |
+|     numpy     |  1.26.2  |
+|    pandas     |  2.1.1   |
+|  matplotlib   |  3.8.4   |
+|    seaborn    |  0.12.2  |
+| opencv-python | 4.9.0.80 |
+|  fuzzywuzzy   |  0.18.0  |
 
 
 
